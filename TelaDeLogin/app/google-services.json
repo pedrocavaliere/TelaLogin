@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "888774573778",
+    "firebase_url": "https://testelogin-e5cfb.firebaseio.com",
+    "project_id": "testelogin-e5cfb",
+    "storage_bucket": "testelogin-e5cfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888774573778:android:4db52472695a06bb",
+        "android_client_info": {
+          "package_name": "pedrok.teladelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888774573778-s3us3rktm2ai9i48ir2ummcf292jnke5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxshWXeaqgCBGN8KmuNIoDwrZJ5X8UswE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
